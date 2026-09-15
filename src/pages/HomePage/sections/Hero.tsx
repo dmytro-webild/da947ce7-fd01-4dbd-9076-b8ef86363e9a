@@ -35,7 +35,7 @@ export default function HeroSection(): React.JSX.Element {
               imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1789470007693-c9xhmu05.jpg",
             },
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/hacker-bypasses-network-security-engages-cyber-crime-with-vr-headset_482257-126453.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1789470104707-bepve1fl.png",
             },
           ]}
           textAnimation="slide-up"

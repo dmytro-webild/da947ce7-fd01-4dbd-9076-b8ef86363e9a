@@ -36,17 +36,17 @@ export default function CategoriasSection(): React.JSX.Element {
             },
             {
               title: "Accesorios",
-              description: "Todo lo necesario para tu instalación.",
-              imageSrc: "http://img.b2bpic.net/free-photo/notepad-near-retro-cameras-film_23-2147852379.jpg",
+              description: "Todo lo necesario para tu dia.",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1789470334862-47frk2ro.jpg",
             },
             {
               title: "Seguridad IoT",
               description: "Dispositivos conectados.",
-              imageSrc: "http://img.b2bpic.net/free-photo/view-round-modern-webcam-with-copy-space_23-2150808003.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1789470055459-b7c4rnsa.jpg",
             },
             {
               title: "Servicios",
-              description: "Soporte y mantenimiento.",
+              description: "Soporte y asesoria.",
               imageSrc: "http://img.b2bpic.net/free-photo/easy-wireless-yechnology-payment_23-2149105207.jpg",
             },
           ]}
