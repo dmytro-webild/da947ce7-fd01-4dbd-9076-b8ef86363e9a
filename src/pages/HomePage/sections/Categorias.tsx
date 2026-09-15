@@ -22,7 +22,7 @@ export default function CategoriasSection(): React.JSX.Element {
             {
               title: "POS",
               description: "Equipos para punto de venta.",
-              imageSrc: "http://img.b2bpic.net/free-photo/portrait-smiling-young-woman-showing-digital-tablet-near-croissant-bakery-counter_23-2148189114.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1789469455665-uyvfys9b.jpg",
             },
             {
               title: "Redes",
