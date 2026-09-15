@@ -17,22 +17,22 @@ export default function CategoriasSection(): React.JSX.Element {
             {
               title: "CCTV",
               description: "Cámaras de seguridad inteligentes.",
-              imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1789463518496-g5hvvz0v.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/rendering-smart-home-device_23-2151039326.jpg",
             },
             {
               title: "POS",
               description: "Equipos para punto de venta.",
-              imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1789463012630-db14reeu.png",
+              imageSrc: "http://img.b2bpic.net/free-photo/portrait-smiling-young-woman-showing-digital-tablet-near-croissant-bakery-counter_23-2148189114.jpg",
             },
             {
               title: "Redes",
               description: "Routers, switches y Access Points.",
-              imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1789463362864-0jc62n5c.webp",
+              imageSrc: "http://img.b2bpic.net/free-photo/wi-fi-sign-wooden-wall-corridor-modern-building_657883-245.jpg",
             },
             {
               title: "Alarmas",
               description: "Sistemas de seguridad activa.",
-              imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1789463249947-3x1l08z6.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/home-theater-projector-setup-modern-living-room_23-2151978658.jpg",
             },
             {
               title: "Accesorios",
@@ -40,9 +40,9 @@ export default function CategoriasSection(): React.JSX.Element {
               imageSrc: "http://img.b2bpic.net/free-photo/notepad-near-retro-cameras-film_23-2147852379.jpg",
             },
             {
-              title: "Seguridad Inalámbrica.",
+              title: "Seguridad IoT",
               description: "Dispositivos conectados.",
-              imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1789463995926-bc68bp97.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/view-round-modern-webcam-with-copy-space_23-2150808003.jpg",
             },
             {
               title: "Servicios",
