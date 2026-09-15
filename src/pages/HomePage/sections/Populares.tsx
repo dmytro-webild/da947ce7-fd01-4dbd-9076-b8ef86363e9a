@@ -15,39 +15,39 @@ export default function PopularesSection(): React.JSX.Element {
           description="Productos destacados por nuestros clientes por su calidad y confiabilidad."
           items={[
             {
-              title: "Cámara Hikvision",
+              title: "Kit Easy Link",
               description: "Alta resolución nocturna.",
-              imageSrc: "http://img.b2bpic.net/free-photo/surveillance-camera-built-into-stone-wall-building_93675-131321.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1789470494718-5mdoo0jo.png",
             },
             {
-              title: "NVR 8 Canales",
+              title: "EQUIPO PUNTO DE VENTA",
               description: "Grabación inteligente continua.",
-              imageSrc: "http://img.b2bpic.net/free-photo/empty-national-secret-service-operation-room-used-follow-safety-alerts_482257-90051.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1789470589011-ktfxahdy.jpg",
             },
             {
-              title: "Router TP-Link",
+              title: "EZVIZ",
               description: "Conectividad estable avanzada.",
-              imageSrc: "http://img.b2bpic.net/free-photo/wifi-spelled-out-with-arrows_23-2148291110.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1789470605164-51t4bj5o.jpg",
             },
             {
-              title: "Impresora POS",
+              title: "HIKVISION",
               description: "Impresión térmica ultra rápida.",
-              imageSrc: "http://img.b2bpic.net/free-photo/side-view-customer-paying-with-nfc-device_23-2150689992.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1789470639856-1uhyzsdi.jpg",
             },
             {
-              title: "Switch Ruijie",
+              title: "EZVIZ",
               description: "Gestión de red profesional.",
-              imageSrc: "http://img.b2bpic.net/free-photo/view-vacuum-cleaner-robot-flat-surface-floor_23-2151736831.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1789470697620-phlbeg53.jpg",
             },
             {
-              title: "Alarma Ezviz",
+              title: "DAHUA",
               description: "Protección inalámbrica instantánea.",
-              imageSrc: "http://img.b2bpic.net/free-photo/man-using-smartphone-his-automated-home_23-2149036893.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1789470839099-xtyn10lv.jpg",
             },
             {
-              title: "Disco Duro WD",
+              title: "IMOU",
               description: "Almacenamiento para vigilancia.",
-              imageSrc: "http://img.b2bpic.net/free-photo/empty-army-command-post-with-russian-flag-running-big-screen_482257-94918.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1789470917762-f72zn1hs.jpg",
             },
           ]}
           textAnimation="fade"
