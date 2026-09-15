@@ -11,7 +11,7 @@ export default function HeroSection(): React.JSX.Element {
         <SectionErrorBoundary name="hero">
               <HeroTiltedCards
           tag="Seguridad de Vanguardia"
-          title="Seguridad y Tecnología en la que Podés Confiar"
+          title="Tecnología y Seguridad para tu hogar o negocio"
           description="Soluciones avanzadas en CCTV, redes, equipos POS y alarmas para proteger tu hogar y potenciar tu negocio en Costa Rica."
           primaryButton={{
             text: "Solicitar Cotización",
