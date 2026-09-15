@@ -15,19 +15,20 @@ export default function PopularesSection(): React.JSX.Element {
           description="Productos destacados por nuestros clientes por su calidad y confiabilidad."
           items={[
             {
-              title: "Cámara Hikvision",
-              description: "Alta resolución nocturna.",
-              imageSrc: "http://img.b2bpic.net/free-photo/surveillance-camera-built-into-stone-wall-building_93675-131321.jpg",
+              title: "Cámara Ezviz H9C 2K.",
+              description: "Alta tecnología WIFI.",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1789462790085-p593ldul.jpg",
             },
             {
-              title: "NVR 8 Canales",
-              description: "Grabación inteligente continua.",
-              imageSrc: "http://img.b2bpic.net/free-photo/empty-national-secret-service-operation-room-used-follow-safety-alerts_482257-90051.jpg",
+              title: "Combo Punto de Venta
+",
+              description: "Ideal para optimizar tus procesos.",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1789462146405-pemudymv.png",
             },
             {
-              title: "Router TP-Link",
-              description: "Conectividad estable avanzada.",
-              imageSrc: "http://img.b2bpic.net/free-photo/wifi-spelled-out-with-arrows_23-2148291110.jpg",
+              title: "Kit 4 cámaras Hikvision",
+              description: "Seguridad a color 24/7.",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1789462330693-ph90e5t6.png",
             },
             {
               title: "Impresora POS",
