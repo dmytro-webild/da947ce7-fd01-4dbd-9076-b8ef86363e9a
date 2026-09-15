@@ -17,7 +17,7 @@ export default function CategoriasSection(): React.JSX.Element {
             {
               title: "CCTV",
               description: "Cámaras de seguridad inteligentes.",
-              imageSrc: "http://img.b2bpic.net/free-photo/rendering-smart-home-device_23-2151039326.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1789466189039-x3oea1jp.jpg",
             },
             {
               title: "POS",
@@ -27,12 +27,12 @@ export default function CategoriasSection(): React.JSX.Element {
             {
               title: "Redes",
               description: "Routers, switches y Access Points.",
-              imageSrc: "http://img.b2bpic.net/free-photo/wi-fi-sign-wooden-wall-corridor-modern-building_657883-245.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1789466306368-rw4rzi5m.webp",
             },
             {
               title: "Alarmas",
               description: "Sistemas de seguridad activa.",
-              imageSrc: "http://img.b2bpic.net/free-photo/home-theater-projector-setup-modern-living-room_23-2151978658.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1789466314031-ftaacr60.jpg",
             },
             {
               title: "Accesorios",
