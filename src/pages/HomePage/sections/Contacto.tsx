@@ -10,7 +10,7 @@ const primaryButton = {
 };
 const secondaryButton = {
   text: "Ver Catálogo",
-  href: "#categorias"
+  href: "https://vercatalogo.com/jsstore_cr/products"
 };
 
 const ContactoInline = () => {
