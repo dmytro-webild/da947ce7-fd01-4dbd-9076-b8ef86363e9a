@@ -16,7 +16,7 @@ export default function FaqSection(): React.JSX.Element {
           items={[
             {
               question: "¿Ofrecen instalación?",
-              answer: "Sí, realizamos instalaciones profesionales de todos nuestros equipos.",
+              answer: "Sí, realizamos instalaciones profesionales de todos nuestros equipos por un costo adicional a cotizar.",
             },
             {
               question: "¿Qué garantía tienen?",
