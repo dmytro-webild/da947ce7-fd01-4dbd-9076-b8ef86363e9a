@@ -23,16 +23,16 @@ export default function HeroSection(): React.JSX.Element {
           }}
           items={[
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-people-working-with-devices_23-2149307794.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1789469833367-kz0yzod7.jpg",
             },
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/view-round-modern-webcam-with-shadows-background_23-2150808006.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1789469745978-r7kth0pa.png",
             },
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/successful-hacker-celebrating-phishing-achievement-pc-feeling-happy-about-stealing-passwords-night-skilled-spy-enjoying-cyberattack-success-with-malware-break-firewall_482257-66409.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1789469962053-dv4et4iq.jpg",
             },
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/abstract-cybersecurity-concept-design_23-2151841680.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1789470007693-c9xhmu05.jpg",
             },
             {
               imageSrc: "http://img.b2bpic.net/free-photo/hacker-bypasses-network-security-engages-cyber-crime-with-vr-headset_482257-126453.jpg",
