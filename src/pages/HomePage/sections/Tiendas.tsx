@@ -16,23 +16,23 @@ export default function TiendasSection(): React.JSX.Element {
           items={[
             {
               title: "JS Store Alajuela",
-              description: "Plaza Eliz, Alajuela | Lun-Vie 8am-6pm",
-              avatarSrc: "http://img.b2bpic.net/free-photo/women-getting-display-window-japanese-hairdressers-ready_23-2149395754.jpg",
+              description: "Plaza Eliz, Alajuela | Lun-Vie 8am-6pm / Sab 8am-4pm / Sab 8am-4pm",
+              avatarSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1789465564795-qoqrhl6k.png",
               imageSrc: "http://img.b2bpic.net/free-photo/abstract-minimal-background-with-floor_23-2149207754.jpg",
               buttonText: "Ver Ubicación",
             },
             {
               title: "JS Store San Pedro",
               description: "Mall San Pedro, 3er piso | Lun-Dom 10am-8pm",
-              avatarSrc: "http://img.b2bpic.net/free-photo/african-american-woman-overalls-beret-walking-out-door-outdoor-terrace-with-christmas-decorations_627829-6925.jpg",
-              imageSrc: "http://img.b2bpic.net/free-photo/village-landscape_1182-836.jpg",
+              avatarSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1789465092060-kk2yo4x1.png",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1789465040055-q7pbgbhm.jpg",
               buttonText: "Ver Ubicación",
             },
             {
-              title: "Soporte Técnico",
-              description: "Contamos con técnicos expertos para tu ayuda.",
-              avatarSrc: "http://img.b2bpic.net/free-photo/young-male-barista-with-tattoos-waiting-outside-coffeehouse-before-opening_23-2149052830.jpg",
-              imageSrc: "http://img.b2bpic.net/free-photo/abstract-minimal-background-with-floor_23-2149207730.jpg",
+              title: "Contactos",
+              description: "Contamos con asesores expertos para tu ayuda.",
+              avatarSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1789465554600-utxqh8j1.png",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1789465600829-4rufay9i.png",
               buttonText: "Consultar",
             },
           ]}
