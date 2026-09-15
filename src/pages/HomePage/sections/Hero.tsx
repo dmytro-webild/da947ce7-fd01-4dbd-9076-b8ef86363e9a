@@ -19,7 +19,7 @@ export default function HeroSection(): React.JSX.Element {
           }}
           secondaryButton={{
             text: "Ver Catálogo",
-            href: "#categorias",
+            href: "https://vercatalogo.com/jsstore_cr/products",
           }}
           items={[
             {
