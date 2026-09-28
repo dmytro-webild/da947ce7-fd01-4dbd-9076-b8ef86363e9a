@@ -15,14 +15,14 @@ export default function CategoriasSection(): React.JSX.Element {
           description="Equipos de alto rendimiento diseñados para cubrir todas tus necesidades."
           items={[
             {
-              title: "CCTV",
-              description: "Cámaras de seguridad inteligentes.",
-              imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1789466189039-x3oea1jp.jpg",
+              title: "EQUIPO EQUIPO CCTV",
+              description: "SEGURIDAD ",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1790611810084-n9f73ram.jpg",
             },
             {
               title: "POS",
               description: "Equipos para punto de venta.",
-              imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1789469455665-uyvfys9b.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1790610981917-549vx45t.jpg",
             },
             {
               title: "Redes",
@@ -40,14 +40,14 @@ export default function CategoriasSection(): React.JSX.Element {
               imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1789470334862-47frk2ro.jpg",
             },
             {
-              title: "Seguridad IoT",
+              title: "Seguridad WIFI",
               description: "Dispositivos conectados.",
-              imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1789470055459-b7c4rnsa.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1790611878017-76sycaim.jpg",
             },
             {
               title: "Servicios",
               description: "Soporte y asesoria.",
-              imageSrc: "http://img.b2bpic.net/free-photo/easy-wireless-yechnology-payment_23-2149105207.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1790611957099-tr8l5s82.jpg",
             },
           ]}
           textAnimation="fade-blur"
