@@ -17,7 +17,7 @@ export default function PopularesSection(): React.JSX.Element {
             {
               title: "Kit Easy Link",
               description: "Alta resolución nocturna.",
-              imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1789470494718-5mdoo0jo.png",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1790611768673-dx7d6hd8.jpg",
             },
             {
               title: "EQUIPO PUNTO DE VENTA",
