@@ -23,19 +23,19 @@ export default function HeroSection(): React.JSX.Element {
           }}
           items={[
             {
-              imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1789469833367-kz0yzod7.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1790611997571-tlleg5xb.jpg",
             },
             {
-              imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1789469745978-r7kth0pa.png",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1790612214813-shcvodzi.jpg",
             },
             {
-              imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1789469962053-dv4et4iq.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1790612096129-5zjlz7cc.jpg",
             },
             {
-              imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1789470007693-c9xhmu05.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1790612205970-7co9bn10.png",
             },
             {
-              imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1789470104707-bepve1fl.png",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1790612088145-jby1e5gq.jpg",
             },
           ]}
           textAnimation="slide-up"
