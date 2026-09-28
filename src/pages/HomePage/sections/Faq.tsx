@@ -39,7 +39,7 @@ export default function FaqSection(): React.JSX.Element {
               answer: "Brindamos soporte técnico y mantenimiento especializado.",
             },
           ]}
-          imageSrc="http://img.b2bpic.net/free-photo/social-network-connection-with-woman-video-chatting-smiling_53876-98446.jpg"
+          imageSrc="https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1790611684571-klh51umg.png"
           textAnimation="fade"
         />
         </SectionErrorBoundary>
