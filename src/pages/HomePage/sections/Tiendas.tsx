@@ -18,7 +18,7 @@ export default function TiendasSection(): React.JSX.Element {
               title: "JS Store Alajuela",
               description: "Plaza Eliz, Alajuela | Lun-Vie 8am-6pm / Sab 8am-4pm / Sab 8am-4pm",
               avatarSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1789465564795-qoqrhl6k.png",
-              imageSrc: "http://img.b2bpic.net/free-photo/abstract-minimal-background-with-floor_23-2149207754.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3H2tc4ac5zdMDJLIinw48nvqD96/uploaded-1791194052999-5z3gmq46.jpg",
               buttonText: "Ver Ubicación",
             },
             {
